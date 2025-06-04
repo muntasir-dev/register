@@ -1,14 +1,14 @@
 {
   "description": "Portfolio-Website",
-  "repo": "https://github.com/muntasir-dev/Portfolio",
+  "repo": "https://github.com/muntasir-dev/muntasir-dev-portfolio",
   "owner": {
     "username": "muntasir-dev",
-    "email": "meeoundnp@gmail.com@gmail.com"
+    "email": "meeoundnp@gmail.com"
   },
   "records": {
-    "CNAME": "muntasir-dev-portfolio.vercel.app"
+    "CNAME": "https://v0-personal-portfolio-design-md-muntasir-hossains-projects.vercel.app/"
   },
   "services": {
-    "vercel": "vc-domain-verify=muntasir.is-a.dev"
+    "vercel": "vc-domain-verify=muntasir.is-a.dev,398d1bab8b268ef585d5"
   }
 }

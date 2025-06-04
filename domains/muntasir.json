@@ -1,1 +1,14 @@
-
+{
+  "description": "Portfolio-Website",
+  "repo": "https://github.com/muntasir-dev/Portfolio",
+  "owner": {
+    "username": "muntasir-dev",
+    "email": "meeoundnp@gmail.com@gmail.com"
+  },
+  "records": {
+    "CNAME": "muntasir-dev-portfolio.vercel.app"
+  },
+  "services": {
+    "vercel": "vc-domain-verify=muntasir.is-a.dev"
+  }
+}

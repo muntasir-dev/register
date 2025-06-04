@@ -6,7 +6,7 @@
     "email": "meeoundnp@gmail.com"
   },
   "records": {
-    "CNAME": "https://v0-personal-portfolio-design-md-muntasir-hossains-projects.vercel.app/"
+    "CNAME": "cname.vercel-dns.com."
   },
   "services": {
     "vercel": "vc-domain-verify=muntasir.is-a.dev,398d1bab8b268ef585d5"
